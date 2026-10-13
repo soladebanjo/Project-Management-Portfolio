@@ -1,0 +1,9 @@
+Stakeholder,Role,Primary concern,Influence,Interest,Engagement approach
+James Okoro,Executive Sponsor (CHRO),Business outcome and timeline,High,High,Monthly checkpoint; sprint review demos
+Joseph Mensah,Product Owner (HR Operations Manager),Scope and user value,High,High,Daily availability; owns backlog priority
+Kelechi Nwosu,Technology / Delivery Lead (IT Service Management Lead),Feasibility and team capacity,High,High,Sprint planning; owns configuration & SSO
+Mariam Bello,Operations Lead (HR Shared Services Supervisor),Adoption and service continuity,Medium,High,Leads HR agent team; pilot coordinator
+HR Business Partners,HR advisers (resistant group),Losing personal relationship with 'their' employees,Medium,High,1:1s; 'preferred adviser' field; involve in workflow design
+Privacy & Compliance Officer,Compliance,"Confidential case segregation, retention",High,Medium,Reviews permission design; sign-off before pilot
+Information Security,IT Security,"Access control, SSO",Medium,Low,Security review in Sprint 2
+Employees (pilot departments),Service users,"Easy to ask, quick answers, privacy",Low,High,Pilot feedback survey; launch comms

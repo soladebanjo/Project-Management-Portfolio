@@ -1,0 +1,10 @@
+Stakeholder,Role,Primary concern,Influence,Interest,Engagement approach
+David Mensah,Executive Sponsor (COO),"Outcome, patient safety and budget",High,High,Monthly steering; weekly 1-page update; decision requests with options
+Mariam Bello,Clinical / Service Lead (Outpatient Services Manager),Operational impact and adoption,High,High,Weekly working group; co-designs clinic templates; signs off UAT
+Fatima Sule,Technology Lead (IT Applications Manager),"Integration, security and delivery capacity",High,High,Weekly working group; owns technical design and integration
+Michael Adekunle,Operations / Frontline Lead (Booking Office Supervisor),Workflow disruption and usability,Medium,High,Super-user network lead; early demos; training schedule
+Vendor Implementation Lead,Supplier,Contract scope and payment milestones,Medium,High,Weekly vendor checkpoint; milestone evidence reviews
+Privacy Officer,Compliance,"Patient data protection, access control",High,Medium,Privacy impact assessment; review of reminder content
+Clinic physicians,End users (clinical),"Clinic templates, session lengths",Medium,Medium,Clinic huddles; template review sessions
+Booking & reception staff,End users,"Ease of use, workload during cutover",Low,High,"Super-users, hands-on training, floor-walkers at go-live"
+Patients / Patient Advisory Council,Service users,"Clear reminders, no lost appointments",Low,Medium,Reminder wording tested with council; patient notices

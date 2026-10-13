@@ -1,0 +1,12 @@
+ID,Epic,User story,Priority,Story points,Acceptance criteria,Sprint,Status
+HR-01,Portal,"As an employee, I can raise an HR request from one portal so I don't need to know who to email",Must,5,Portal reachable via SSO; 12 request types; confirmation email sent,1,Done
+HR-02,Queues & SLAs,"As an HR agent, I see a shared queue sorted by SLA so nothing is missed",Must,5,Queue by request type; SLA timer 1 business day for first response,1,Done
+HR-03,Confidential,"As an employee, I can raise a confidential concern that only investigators can see",Must,8,Separate restricted project; only 'HR Investigator' role can view; tested with 5 non-authorised roles,2,Done
+HR-04,Identity,"As an employee, I sign in with my bank account (SSO) and my details auto-fill",Must,5,SSO works for 100% of test users; department and manager auto-populated,2,Done
+HR-05,Knowledge,"As an employee, I see suggested articles before submitting",Should,3,Top 3 articles suggested from keywords,3,Done
+HR-06,Channels,"As an employee, I can email hr@ and a ticket is created",Must,3,Email creates ticket in under 2 min; reply threads stay on the ticket,3,Done
+HR-07,Routing,"As an HRBP, tickets from 'my' departments are routed to me first",Should,5,'Preferred adviser' field routes by department; falls back to queue after 4 h,4,Done
+HR-08,Confidential,System warns and re-routes when a general ticket contains sensitive keywords,Must (added via D-04),5,"Keywords (e.g., grievance, harassment) trigger restricted re-route + Privacy Officer alert",4,Done
+HR-09,Reporting,"As HR leadership, I see volume, SLA and top themes monthly",Should,5,Dashboard with 4 charts; data matches queue export,4,Done
+HR-10,Feedback,"As an employee, I rate my experience when a ticket closes",Could,2,1–5 rating; 1-click,5,Done
+HR-11,Chatbot,Virtual agent answers common questions,Won't (this release),13,—,Future,Deferred

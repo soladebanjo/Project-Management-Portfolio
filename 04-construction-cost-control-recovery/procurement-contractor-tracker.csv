@@ -1,0 +1,9 @@
+Package,Supplier / subcontractor (fictional),Contract value (CAD),Approved changes (CAD),Invoiced to date (CAD),Site-verified % complete,Lead time (weeks),Required on site,Forecast,Status,Inspection / acceptance
+Structural framing,Northline Framing Ltd.,"$4,200,000","$85,000","$3,610,000",86%,6,Week 5,On site,Green,Framing inspection – passed
+Windows & curtain wall,ClearSpan Glazing Inc.,"$2,650,000",$0,"$795,000",30%,14,Week 16,Week 21 (was Week 16),Red → Amber,Water test per floor
+Roofing,Summit Roof Systems,"$780,000","$22,000","$710,000",92%,4,Week 15,Complete,Green,Roof inspection – passed
+Mechanical & plumbing,Prairie Mechanical Ltd.,"$5,100,000","$140,000","$1,479,000",29%,8,Week 20,On site,Green,Pre-drywall inspection
+Electrical,Bright Circuit Electric,"$3,900,000","$65,000","$1,092,000",28%,6,Week 20,On site,Green,Pre-drywall inspection
+Elevators,Vertex Lifts Canada,"$620,000",$0,"$93,000",15% (deposit),26,Week 36,Week 36,Green,Elevator safety inspection
+Drywall & interiors,Capital Interiors Inc.,"$2,300,000",$0,$0,0%,4,Week 34,Week 34,Green,Snagging per unit
+Flooring & finishes,River Valley Finishes,"$1,450,000",$0,$0,0%,6,Week 38,Week 38,Green,Snagging per unit

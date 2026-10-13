@@ -1,0 +1,19 @@
+# RAID Log – Construction Cost Control Recovery
+
+> **Simulated project.** Organisation, people and data are fictional and based on a PM Project Lab practice brief. The PM artefacts are my own work, produced to practise real project-management delivery.
+
+Scoring: probability (1–5) × impact (1–5). **15+ = red**, 8–14 = amber, under 8 = green. Reviewed weekly in the project meeting and summarised in the steering update.
+
+| Type | ID | Description | Probability | Impact | Score | Owner | Response / action | Status | Review date |
+|---|---|---|---|---|---|---|---|---|---|
+| Risk | R-01 | Window supplier misses delivery, so the envelope is not closed before winter | 3 | 5 | 15 | Commercial Mgr | Factory production evidence every 2 weeks; temporary enclosure plan ready | Occurred → I-02 | Week 20 |
+| Risk | R-02 | Contractor resists invoice verification, slowing payments and goodwill | 3 | 3 | 9 | PM | Joint verification walk on fixed day; pay within 15 days of verified claim | Closed | Week 10 |
+| Risk | R-03 | Hidden unapproved change orders appear in final accounts | 4 | 4 | 16 | Commercial Mgr | Amnesty: all pending verbal changes submitted by Week 6; none accepted after | Open | Week 8 |
+| Risk | R-04 | City inspection booking delays | 3 | 3 | 9 | Construction Mgr | Book 2 weeks ahead; contractor pre-inspection checklist | Open | Week 34 |
+| Risk | R-05 | Material price increase on remaining packages | 2 | 4 | 8 | Commercial Mgr | Lock prices on remaining commitments at re-baseline | Closed | Week 6 |
+| Assumption | A-01 | No major design changes after re-baseline | — | — | — | Sponsor | Design freeze agreed at Week 4 | Validated | Week 4 |
+| Issue | I-01 | Cost audit found $1.1M of verbal change orders with no paperwork | 5 | 4 | 20 | Commercial Mgr | Each priced by cost consultant; 31% rejected or reduced | Resolved | Week 8 |
+| Issue | I-02 | Window supplier missed delivery milestone (Week 18); claimed '2 weeks late' | 5 | 5 | 25 | PM | Decision D-04 – see decision log | Resolved | Week 24 |
+| Dependency | D-01 | City building inspections at hold points | — | — | — | Construction Mgr | Inspection calendar shared with contractor | Open | Week 36 |
+| Dependency | D-02 | Utility permanent power connection before commissioning | — | — | — | Construction Mgr | Application submitted Week 10 | Open | Week 40 |
+| Dependency | D-03 | Window supplier production slot | — | — | — | Commercial Mgr | Tracked via bi-weekly factory evidence | Open | Week 20 |

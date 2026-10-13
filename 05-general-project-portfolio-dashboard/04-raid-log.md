@@ -1,0 +1,15 @@
+# RAID Log – Project Portfolio Dashboard
+
+> **Simulated project.** Organisation, people and data are fictional and based on a PM Project Lab practice brief. The PM artefacts are my own work, produced to practise real project-management delivery.
+
+Scoring: probability (1–5) × impact (1–5). **15+ = red**, 8–14 = amber, under 8 = green. Reviewed weekly in the project meeting and summarised in the steering update.
+
+| Type | ID | Description | Probability | Impact | Score | Owner | Response / action | Status | Review date |
+|---|---|---|---|---|---|---|---|---|---|
+| Risk | R-01 | PMs see the template as extra admin and don't submit on time | 4 | 4 | 16 | Delivery Ops | Template takes under 15 min; pre-filled finance data; champions; compliance shown on dashboard | Open | Week 14 |
+| Risk | R-02 | Practice leads dispute their RAG ratings | 3 | 4 | 12 | Head of PMO | RAG rules agreed by all practice leads at Week 6; rule-based, not opinion | Closed | Week 6 |
+| Risk | R-03 | Finance data doesn't reconcile with project budgets | 3 | 4 | 12 | BI Lead | Reconciliation check each refresh; Finance sign-off | Open | Week 12 |
+| Risk | R-04 | Late scope requests from senior partners threaten fixed date | 4 | 3 | 12 | PM | Change control; Phase 2 backlog | Occurred → I-01 | Week 12 |
+| Assumption | A-01 | Power BI licences available for all leaders | — | — | — | BI Lead | Validated; 12 Pro licences added | Validated | Week 3 |
+| Issue | I-01 | Practice lead requested consultant-level utilisation view at Week 12 | 5 | 3 | 15 | PM | CR-02 assessed and deferred to Phase 2 (D-04) | Resolved | Week 12 |
+| Dependency | D-01 | Weekly finance export (budget vs actual) | — | — | — | Finance | Live Week 9 | Closed | Week 9 |

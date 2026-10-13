@@ -1,0 +1,10 @@
+WBS ID,Phase,Work package,Start week,End week,Duration (weeks),Start,Finish,Owner
+1,Sprint 0,"Charter, discovery interviews, backlog & design",1,2,2,05 Jan 2026,16 Jan 2026,PM
+2,Sprint 1,"Portal, request types, queues, SLAs",3,4,2,19 Jan 2026,30 Jan 2026,ITSM Lead
+3,Sprint 2,"Confidential workflow, permissions, SSO",5,6,2,02 Feb 2026,13 Feb 2026,ITSM Lead
+4,Sprint 3,"Knowledge base v1, email-to-ticket, pilot prep",7,8,2,16 Feb 2026,27 Feb 2026,Product Owner
+5,Pilot,Pilot – Retail Operations & Finance,8,10,3,23 Feb 2026,13 Mar 2026,HR Ops Lead
+6,Sprint 4,"Pilot fixes, reporting dashboard",9,10,2,02 Mar 2026,13 Mar 2026,ITSM Lead
+7,Sprint 5,"Hardening, UAT, training, launch comms",11,12,2,16 Mar 2026,27 Mar 2026,PM
+8,Launch,Bank-wide launch,13,13,1,30 Mar 2026,03 Apr 2026,PM
+9,Hypercare,Hypercare & handover to IT support,13,15,3,30 Mar 2026,17 Apr 2026,ITSM Lead

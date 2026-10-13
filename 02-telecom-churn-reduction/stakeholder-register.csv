@@ -1,0 +1,10 @@
+Stakeholder,Role,Primary concern,Influence,Interest,Engagement approach
+Daniel Adebayo,Executive Sponsor (CCO),Business outcome and timeline,High,High,Monthly steering; gate approvals; weekly update
+Ngozi Ibe,Product / Business Owner (Head of Customer Retention),Scope and user value,High,High,Weekly; owns requirements and offer matrix
+Emeka Umeh,Technology / Delivery Lead (BI & CRM Manager),Feasibility and team capacity,High,High,Weekly; owns data mart and CRM build
+Ruth Asante,Operations / Customer Lead (Contact Centre Manager),Adoption and service continuity,High,High,Weekly; owns save desk and training
+Field Sales Lead,Sales,"Commission impact, SME accounts",Medium,High,Bi-weekly; SME retention input
+Finance Business Partner,Finance,Cost of retention offers,High,Medium,Offer budget approval at Gate 3
+Network Operations Manager,Dependency owner,"Maintenance windows, outage data",Medium,Low,Monthly; data feed agreement
+Legal & Privacy,Compliance,"Consent for outbound contact, data use",High,Low,Review at design and before win-back launch
+Contact centre agents,End users,"Workload, clear scripts, targets",Low,High,"Agent focus groups, training, feedback loop"

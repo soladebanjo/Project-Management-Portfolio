@@ -1,0 +1,9 @@
+Stakeholder,Role,Primary concern,Influence,Interest,Engagement approach
+Michael Adekunle,Executive Sponsor (Managing Partner),Business outcome and timeline,High,High,Bi-weekly steering; dashboard previews
+Grace Nnamdi,Product / Business Owner (Head of PMO),Scope and user value,High,High,Weekly; owns RAG rules and template
+Femi Balogun,Technology / Delivery Lead (BI Lead),Feasibility and team capacity,Medium,High,Sprint planning; owns data model
+Halima Garba,Operations / Customer Lead (Delivery Operations Manager),Adoption and service continuity,Medium,High,Weekly; owns rollout & training
+Practice Leads (6),Senior partners,Fair view of their practice; extra features,High,Medium,Monthly demos; consulted on views
+Project Managers (35),Data providers / users,"Less admin, not more",Low,High,"Champions, 30-min training, feedback form"
+Head of Finance,Data owner (budget/actuals),"Accuracy, confidentiality",High,Medium,Data-sharing agreement; reconciliation sign-off
+IT Security,Access control,Who sees what,Medium,Low,Row-level security review

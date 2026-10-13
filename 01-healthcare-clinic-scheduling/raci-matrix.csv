@@ -1,0 +1,10 @@
+Activity / deliverable,Sponsor,PM (Sola),Clinical Lead,IT Lead,Booking Lead,Vendor,Privacy Officer
+Project charter,A,R,C,C,I,I,I
+Requirements & clinic templates,I,A,R,C,R,C,I
+Integration build & testing,I,A,C,R,I,R,I
+Privacy impact assessment,I,A,C,C,I,C,R
+Data migration & reconciliation,I,A,C,R,R,R,I
+Training,I,A,C,I,R,R,I
+UAT sign-off,I,R,A,C,R,C,I
+Go / no-go decision,A,R,C,C,C,C,C
+Hypercare & issue resolution,I,A,C,R,R,R,I

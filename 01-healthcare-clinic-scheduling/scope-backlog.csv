@@ -1,0 +1,11 @@
+ID,User story,Priority (MoSCoW),Acceptance criteria,Release,Status
+B-01,"As a booking clerk, I can book an appointment from a clinic template so sessions are not double-booked",Must,System blocks overlapping bookings for same clinician/room; tested on all 6 clinic templates,Go-live,Done
+B-02,"As a patient, I receive a reminder 48 h before my appointment",Must,SMS or email sent for 100% of booked appointments in test; message contains no clinical details,Go-live,Done
+B-03,"As a patient, I can reply to cancel so the slot can be reused",Should,Reply 'C' cancels and frees slot within 5 min; booking office notified,Go-live,Done
+B-04,"As a clinic manager, I see daily utilisation and no-shows by clinic",Must,Report available by 08:00 daily; figures match source within 1%,Go-live,Done
+B-05,"As a booking clerk, patient demographics load from the patient administration system",Must,Demographics returned in under 3 s; no manual re-keying,Go-live,Done
+B-06,"As IT, all access is role-based and audited",Must,Access review completed; audit log captures view/edit events,Go-live,Done
+B-07,"As a booking clerk, I can manage a wait list and offer cancelled slots",Should,Wait-list patients offered freed slot automatically,Release 1.1,Backlog
+B-08,"As a patient, I can book online",Could,—,Phase 2,Deferred
+B-09,Interpreter booking flag,Should,Flag visible on appointment and in daily list,Release 1.1,Backlog
+B-10,Multi-language reminders,Won't (this phase),—,Phase 2,Deferred

@@ -1,0 +1,14 @@
+WBS ID,Phase,Work package,Start week,End week,Duration (weeks),Start,Finish,Owner
+1,Recovery Initiation,Recovery charter & governance,1,2,2,11 May 2026,22 May 2026,PM
+2,Recovery Initiation,Cost audit & re-baseline (cost-to-complete),2,4,3,18 May 2026,05 Jun 2026,Cost Consultant
+3,Cost Controls (Agile sprints),"Sprint 1–2 – committed-cost register, change-order process",3,6,4,25 May 2026,19 Jun 2026,Commercial Mgr
+4,Cost Controls (Agile sprints),"Sprint 3–4 – invoice verification, EVM report",7,10,4,22 Jun 2026,17 Jul 2026,PM
+5,Construction,Structure (floors 3–6) & roof,5,14,10,08 Jun 2026,14 Aug 2026,General Contractor
+6,Construction,"Building envelope – windows, cladding, roofing",13,24,12,03 Aug 2026,23 Oct 2026,General Contractor
+7,Construction,"Mechanical, electrical, plumbing rough-in",20,35,16,21 Sep 2026,08 Jan 2027,General Contractor
+8,Construction,Interior finishes,34,45,12,28 Dec 2026,19 Mar 2027,General Contractor
+9,Construction,Elevators & life-safety systems,36,44,9,11 Jan 2027,12 Mar 2027,General Contractor
+10,Commissioning & Handover,Commissioning & testing,44,47,4,08 Mar 2027,02 Apr 2027,Construction Mgr
+11,Commissioning & Handover,Occupancy inspection & permit,47,49,3,29 Mar 2027,16 Apr 2027,Construction Mgr
+12,Commissioning & Handover,"Snagging, O&M manuals, handover",48,51,4,05 Apr 2027,30 Apr 2027,Ops Lead
+13,Commissioning & Handover,Closure report & lessons learned,50,51,2,19 Apr 2027,30 Apr 2027,PM

@@ -1,0 +1,12 @@
+WBS ID,Phase,Work package,Start week,End week,Duration (weeks),Start,Finish,Owner
+1,Initiation,Charter & stakeholder interviews,1,2,2,05 Jan 2026,16 Jan 2026,PM
+2,Analysis & Design,Current-state review (6 practices),2,4,3,12 Jan 2026,30 Jan 2026,Head of PMO
+3,Analysis & Design,"Data dictionary, RAG rules, future process",4,6,3,26 Jan 2026,13 Feb 2026,Head of PMO
+4,Data,Finance & resourcing data feeds,6,9,4,09 Feb 2026,06 Mar 2026,BI Lead
+5,Build Sprints,Sprint 1 – status template & pilot practice,7,8,2,16 Feb 2026,27 Feb 2026,Delivery Ops
+6,Build Sprints,Sprint 2 – data model & portfolio overview page,9,10,2,02 Mar 2026,13 Mar 2026,BI Lead
+7,Build Sprints,Sprint 3 – financials & risk pages,11,12,2,16 Mar 2026,27 Mar 2026,BI Lead
+8,Build Sprints,"Sprint 4 – resourcing page, security, hardening",13,14,2,30 Mar 2026,10 Apr 2026,BI Lead
+9,Rollout,Training & rollout to all practices,10,14,5,09 Mar 2026,10 Apr 2026,Delivery Ops
+10,Rollout,Go-live for annual planning,16,16,1,20 Apr 2026,24 Apr 2026,PM
+11,Closure,Benefits check & closure report,17,18,2,27 Apr 2026,08 May 2026,PM

@@ -1,0 +1,6 @@
+KPI,Baseline (simulated),Target,Month 1,Month 2,Month 3,Measurement method,Owner,Cadence
+Monthly churn rate,2.4%,1.9%,2.3%,2.2%,2.1%,Disconnects ÷ active subscribers at month start,Head of Retention,Monthly
+Save rate (save desk),n/a,35%,28%,31%,33%,Customers retained ÷ cancellation requests handled,Contact Centre Manager,Weekly
+Offer approval within 24 h,~40%,95%,88%,93%,96%,CRM workflow timestamps,Business Owner,Weekly
+Repeat complaints within 30 days,22%,15%,21%,19%,18%,"Complaint records, same account, 30 days",Contact Centre Manager,Monthly
+Retention offer cost per save,n/a,≤ $60,$58,$61,$57,Offer cost ÷ saves,Finance,Monthly
