@@ -4,7 +4,7 @@
 
 ![Portfolio dashboard](assets/portfolio-dashboard.png)
 
-The image above is a mock-up of the portfolio overview page, generated from [`portfolio-data.csv`](portfolio-data.csv) (12 simulated projects) by [`assets/make_chart.py`](assets/make_chart.py).
+The image above is the prototype portfolio overview, built in Excel ([`general-project-portfolio-dashboard-pm-workbook.xlsx`](general-project-portfolio-dashboard-pm-workbook.xlsx), **Dashboard** sheet) using 12 simulated projects. RAG is calculated by formulas from the agreed rules (**Portfolio Data** sheet). The production version was specified for Power BI.
 
 ## Project benefits
 | KPI | Baseline | Target | Week 16 (simulated) |

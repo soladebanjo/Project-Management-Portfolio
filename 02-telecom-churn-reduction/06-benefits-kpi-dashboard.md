@@ -4,7 +4,7 @@
 
 ![Benefits KPI dashboard](assets/kpi-dashboard.png)
 
-Data: [`kpi-dashboard.csv`](kpi-dashboard.csv). The chart is generated from the CSV by [`assets/make_chart.py`](assets/make_chart.py).
+Built in the Excel workbook ([`telecom-churn-reduction-pm-workbook.xlsx`](telecom-churn-reduction-pm-workbook.xlsx), **Dashboard** sheet) and exported as an image. Status vs target is calculated by formula. Data: [`kpi-dashboard.csv`](kpi-dashboard.csv).
 
 | KPI | Baseline | Target | Month 3 (simulated) | Trend |
 |---|---|---|---|---|

@@ -24,7 +24,16 @@ I acted as **Project Manager**: I owned the plan, governance and stakeholder ali
 | Decision log & change request | [08-decision-and-change-log.md](08-decision-and-change-log.md) |
 | Lessons learned & closure | [09-lessons-learned-and-closure.md](09-lessons-learned-and-closure.md) |
 
-Data files (open as tables on GitHub, or import into Notion/Excel): [`stakeholder-register.csv`](stakeholder-register.csv), [`raci-matrix.csv`](raci-matrix.csv), [`schedule-wbs.csv`](schedule-wbs.csv), [`raid-log.csv`](raid-log.csv), [`scope-backlog.csv`](scope-backlog.csv)
+## PM tool files
+| Tool | File | What it contains |
+|---|---|---|
+| Microsoft Excel | [`healthcare-clinic-scheduling-pm-workbook.xlsx`](healthcare-clinic-scheduling-pm-workbook.xlsx) | Gantt chart, stakeholder register, RACI, RAID log (auto-scored), budget, comms plan and a dashboard with live formulas and charts |
+| Microsoft Project | [`healthcare-clinic-scheduling-schedule-msproject.xml`](healthcare-clinic-scheduling-schedule-msproject.xml) | Baseline schedule with phases, work packages, owners and milestones (File → Open in MS Project, or open in the free ProjectLibre) |
+| Jira | [`jira-import-backlog.csv`](jira-import-backlog.csv) | Backlog ready for Jira CSV import (stories, priority, points, acceptance criteria) |
+
+Data files (open as tables on GitHub, or import into Notion): [`stakeholder-register.csv`](stakeholder-register.csv), [`raci-matrix.csv`](raci-matrix.csv), [`schedule-wbs.csv`](schedule-wbs.csv), [`raid-log.csv`](raid-log.csv), [`scope-backlog.csv`](scope-backlog.csv)
+
+![Week 12 status dashboard – exported from the Excel workbook (simulated)](assets/status-dashboard.png)
 
 ## Key PM decision
 When the vendor missed the integration milestone and promised a 1-week recovery, I asked for test results instead of a percentage. Only 11 of 24 interfaces were passing. I re-planned to an evidence-based date, used the schedule contingency, and got sponsor approval for a 1-week go-live move at no extra cost (CR-03), without cutting patient-safety testing.
@@ -33,7 +42,7 @@ When the vendor missed the integration milestone and promised a 1-week recovery,
 Project charter & scope definition, Stakeholder & RACI management, Hybrid delivery, Vendor management, Risk & dependency management, Change control, UAT & go-live readiness, Hypercare planning, Healthcare privacy awareness, Benefits tracking
 
 ## Tools
-Microsoft Project / Excel (schedule), Jira (backlog & defects), Microsoft Teams & SharePoint, Mermaid (Gantt)
+Microsoft Project / Excel (schedule), Jira (backlog & defects; import file included), Microsoft Teams & SharePoint, Mermaid (Gantt)
 
 ## How I describe this on my resume
 - Planned a simulated 21-week, CAD $850K clinic scheduling upgrade for a 200-bed hospital (6 clinics): charter, RACI, WBS, RAID log, UAT plan and go-live/hypercare plan.

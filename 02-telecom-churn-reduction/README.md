@@ -25,9 +25,15 @@ I acted as **Project Manager**: I ran the stage-gated plan across data/BI, CRM, 
 | Decision log & change request | [08-decision-and-change-log.md](08-decision-and-change-log.md) |
 | Lessons learned & closure | [09-lessons-learned-and-closure.md](09-lessons-learned-and-closure.md) |
 
-Data files (open as tables on GitHub, or import into Notion/Excel): [`stakeholder-register.csv`](stakeholder-register.csv), [`raci-matrix.csv`](raci-matrix.csv), [`schedule-wbs.csv`](schedule-wbs.csv), [`raid-log.csv`](raid-log.csv), [`kpi-dashboard.csv`](kpi-dashboard.csv)
+## PM tool files
+| Tool | File | What it contains |
+|---|---|---|
+| Microsoft Excel | [`telecom-churn-reduction-pm-workbook.xlsx`](telecom-churn-reduction-pm-workbook.xlsx) | Gantt chart, stakeholder register, RACI, RAID log (auto-scored), budget, comms plan and a dashboard with live formulas and charts |
+| Microsoft Project | [`telecom-churn-reduction-schedule-msproject.xml`](telecom-churn-reduction-schedule-msproject.xml) | Baseline schedule with phases, work packages, owners and milestones (File → Open in MS Project, or open in the free ProjectLibre) |
 
-![Benefits KPI dashboard (simulated)](assets/kpi-dashboard.png)
+Data files (open as tables on GitHub, or import into Notion): [`stakeholder-register.csv`](stakeholder-register.csv), [`raci-matrix.csv`](raci-matrix.csv), [`schedule-wbs.csv`](schedule-wbs.csv), [`raid-log.csv`](raid-log.csv), [`kpi-dashboard.csv`](kpi-dashboard.csv)
+
+![Benefits KPI dashboard – exported from the Excel workbook (simulated)](assets/kpi-dashboard.png)
 
 ## Key PM decision
 Two weeks before go-live, UAT found that duplicate SME account IDs were giving some customers the wrong churn-risk score. I classified it as critical, contained it the same day and gave the steering committee three costed options. Then I recommended a **phased go-live**: residential customers on time and SME customers 3 weeks later. That protected most of the benefit without risking contact with the wrong customer.
@@ -36,7 +42,7 @@ Two weeks before go-live, UAT found that duplicate SME account IDs were giving s
 Waterfall stage-gate governance, Business process mapping, Benefits realisation & KPI design, Data-driven decision making, Defect triage & go/no-go, Dependency management, Change management & adoption, Vendor and cross-functional coordination
 
 ## Tools
-Excel / Power BI (KPI dashboard), Python (chart), Mermaid (process maps, Gantt), CRM workflows, Microsoft Teams
+Excel (KPI dashboard & charts), Microsoft Project, Mermaid (process maps, Gantt), CRM workflows, Microsoft Teams
 
 ## How I describe this on my resume
 - Led a simulated 43-week, CAD $1.2M stage-gated churn-reduction programme for a 180K-subscriber telecom provider, coordinating BI, CRM, contact centre, field sales and finance.

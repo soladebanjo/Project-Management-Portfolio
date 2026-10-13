@@ -26,9 +26,15 @@ I acted as **Project Manager**: I led the project end to end: charter, stakehold
 | Decision log & change request | [08-decision-and-change-log.md](08-decision-and-change-log.md) |
 | Lessons learned & closure | [09-lessons-learned-and-closure.md](09-lessons-learned-and-closure.md) |
 
-Data files (open as tables on GitHub, or import into Notion/Excel): [`stakeholder-register.csv`](stakeholder-register.csv), [`raci-matrix.csv`](raci-matrix.csv), [`schedule-wbs.csv`](schedule-wbs.csv), [`raid-log.csv`](raid-log.csv), [`portfolio-data.csv`](portfolio-data.csv), [`kpi-dashboard.csv`](kpi-dashboard.csv)
+## PM tool files
+| Tool | File | What it contains |
+|---|---|---|
+| Microsoft Excel | [`general-project-portfolio-dashboard-pm-workbook.xlsx`](general-project-portfolio-dashboard-pm-workbook.xlsx) | Gantt chart, stakeholder register, RACI, RAID log (auto-scored), budget, comms plan and a dashboard with live formulas and charts |
+| Microsoft Project | [`general-project-portfolio-dashboard-schedule-msproject.xml`](general-project-portfolio-dashboard-schedule-msproject.xml) | Baseline schedule with phases, work packages, owners and milestones (File → Open in MS Project, or open in the free ProjectLibre) |
 
-![Portfolio dashboard mock-up (simulated data)](assets/portfolio-dashboard.png)
+Data files (open as tables on GitHub, or import into Notion): [`stakeholder-register.csv`](stakeholder-register.csv), [`raci-matrix.csv`](raci-matrix.csv), [`schedule-wbs.csv`](schedule-wbs.csv), [`raid-log.csv`](raid-log.csv), [`portfolio-data.csv`](portfolio-data.csv), [`kpi-dashboard.csv`](kpi-dashboard.csv)
+
+![Portfolio dashboard – exported from the Excel workbook (simulated)](assets/portfolio-dashboard.png)
 
 ## Key PM decision
 At Week 12 a senior partner asked to 'just add' a consultant-level utilisation page. I showed the impact in numbers: +3 weeks past a fixed date, +$22K against $14K of contingency, and a privacy review. I offered a practice-level view in the current sprint and a Phase 2 backlog item. The partner agreed and go-live stayed on date.
@@ -37,7 +43,7 @@ At Week 12 a senior partner asked to 'just add' a consultant-level utilisation p
 PMO & portfolio reporting, Data governance (data dictionary, RAG rules), Dashboard requirements & KPI design, Hybrid delivery, Scope & change control, Stakeholder management (senior partners), Change management & adoption, Benefits realisation
 
 ## Tools
-Power BI / IBM Cognos (dashboard), Excel, Python (pandas, matplotlib), SharePoint lists & Microsoft Forms, Power Automate, Mermaid
+Excel (dashboard prototype, RAG formulas), Power BI / IBM Cognos (production dashboard), SharePoint lists & Microsoft Forms, Power Automate, Mermaid
 
 ## How I describe this on my resume
 - Delivered a simulated 18-week, CAD $150K portfolio-reporting project for a 40-project consulting firm: standard status template, rule-based RAG and a Power BI dashboard live before the annual planning deadline.
@@ -45,7 +51,7 @@ Power BI / IBM Cognos (dashboard), Excel, Python (pandas, matplotlib), SharePoin
 - Assessed a late senior-partner change request (+3 weeks, +$22K, privacy risk) and steered it to a Phase 2 backlog with an interim solution, protecting the fixed go-live date.
 
 ## Connection to my real experience
-This combines my PMP training with my NPower Canada AI & Data Analytics program and IBM Data Analyst work (Excel, Python, dashboards). It also builds on my real experience creating Excel dashboards and reports for management decision-making in my NHS role.
+This combines my PMP training with my NPower Canada AI & Data Analytics program and IBM Data Analyst work (Excel, dashboards). It also builds on my real experience creating Excel dashboards and reports for management decision-making in my NHS role.
 
 ---
 Source brief: PM Project Lab, Project 0912 – Project Portfolio Dashboard. Budget rescaled from the brief's indicative figure to a realistic size for the scope.

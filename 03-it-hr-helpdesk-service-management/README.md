@@ -24,7 +24,16 @@ I acted as **Project Manager**: I worked as Project Manager / Scrum facilitator 
 | Decision log & change request | [08-decision-and-change-log.md](08-decision-and-change-log.md) |
 | Lessons learned & closure | [09-lessons-learned-and-closure.md](09-lessons-learned-and-closure.md) |
 
-Data files (open as tables on GitHub, or import into Notion/Excel): [`stakeholder-register.csv`](stakeholder-register.csv), [`raci-matrix.csv`](raci-matrix.csv), [`schedule-wbs.csv`](schedule-wbs.csv), [`raid-log.csv`](raid-log.csv), [`product-backlog.csv`](product-backlog.csv)
+## PM tool files
+| Tool | File | What it contains |
+|---|---|---|
+| Microsoft Excel | [`it-hr-helpdesk-service-management-pm-workbook.xlsx`](it-hr-helpdesk-service-management-pm-workbook.xlsx) | Gantt chart, stakeholder register, RACI, RAID log (auto-scored), budget, comms plan and a dashboard with live formulas and charts |
+| Microsoft Project | [`it-hr-helpdesk-service-management-schedule-msproject.xml`](it-hr-helpdesk-service-management-schedule-msproject.xml) | Baseline schedule with phases, work packages, owners and milestones (File → Open in MS Project, or open in the free ProjectLibre) |
+| Jira | [`jira-import-backlog.csv`](jira-import-backlog.csv) | Backlog ready for Jira CSV import (stories, priority, points, acceptance criteria) |
+
+Data files (open as tables on GitHub, or import into Notion): [`stakeholder-register.csv`](stakeholder-register.csv), [`raci-matrix.csv`](raci-matrix.csv), [`schedule-wbs.csv`](schedule-wbs.csv), [`raid-log.csv`](raid-log.csv), [`product-backlog.csv`](product-backlog.csv)
+
+![Sprint velocity and pilot SLA – exported from the Excel workbook (simulated)](assets/velocity-dashboard.png)
 
 ## Key PM decision
 During the pilot, a grievance was logged in the general queue and 6 HR agents could see it. I contained it within 30 minutes, brought in the Privacy Officer and sponsor the same day, and traced the root cause to a confusing request-type label. The fix went into the next sprint: a clear 'confidential concern' option, keyword auto re-routing, and negative permission tests in the Definition of Done.
@@ -33,7 +42,7 @@ During the pilot, a grievance was logged in the general queue and 6 HR agents co
 Agile / Scrum delivery, Backlog management & user stories, IT service management (ITSM), Privacy-by-design, Incident response, Change management & resistance, UAT & launch readiness, Pilot planning
 
 ## Tools
-Jira Service Management, Confluence-style knowledge base, Microsoft Teams & SharePoint, Power Automate (email notifications), Excel
+Jira Service Management (backlog import file included), Confluence-style knowledge base, Microsoft Teams & SharePoint, Power Automate (email notifications), Excel (velocity & SLA dashboard), Microsoft Project
 
 ## How I describe this on my resume
 - Delivered a simulated 15-week, CAD $180K Agile rollout of an HR service portal (Jira Service Management) for a 2,400-employee bank, replacing email/WhatsApp requests with a tracked queue and SLAs.

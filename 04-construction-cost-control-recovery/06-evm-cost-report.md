@@ -20,4 +20,4 @@ Measures the **remaining scope** after the re-baseline (Budget at Completion, BA
 
 **Commentary:** cost is back within tolerance. Schedule slipped by about 2 weeks because of the window delay (I-02); the temporary enclosure recovered interior work sequencing. Next month's focus: close out the remaining 11 change orders and track the extra heating cost.
 
-The S-curve is generated from [`evm-data.csv`](evm-data.csv) by [`assets/make_chart.py`](assets/make_chart.py).
+Built in the Excel workbook ([`construction-cost-control-recovery-pm-workbook.xlsx`](construction-cost-control-recovery-pm-workbook.xlsx), **EVM Dashboard** sheet): change the status week and every EVM measure recalculates. Data: [`evm-data.csv`](evm-data.csv).

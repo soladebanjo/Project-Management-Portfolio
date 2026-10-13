@@ -1,0 +1,34 @@
+Summary,Issue Type,Priority,Description,Story Points,Labels,Status
+"HR-01: As an employee, I can raise an HR request from one portal so I don't need to know who to email",Story,Highest,"As an employee, I can raise an HR request from one portal so I don't need to know who to email
+
+Acceptance criteria: Portal reachable via SSO; 12 request types; confirmation email sent",5,Portal release-1,Done
+"HR-02: As an HR agent, I see a shared queue sorted by SLA so nothing is missed",Story,Highest,"As an HR agent, I see a shared queue sorted by SLA so nothing is missed
+
+Acceptance criteria: Queue by request type; SLA timer 1 business day for first response",5,Queues-SLAs release-1,Done
+"HR-03: As an employee, I can raise a confidential concern that only investigators can see",Story,Highest,"As an employee, I can raise a confidential concern that only investigators can see
+
+Acceptance criteria: Separate restricted project; only 'HR Investigator' role can view; tested with 5 non-authorised roles",8,Confidential release-2,Done
+"HR-04: As an employee, I sign in with my bank account (SSO) and my details auto-fill",Story,Highest,"As an employee, I sign in with my bank account (SSO) and my details auto-fill
+
+Acceptance criteria: SSO works for 100% of test users; department and manager auto-populated",5,Identity release-2,Done
+"HR-05: As an employee, I see suggested articles before submitting",Story,High,"As an employee, I see suggested articles before submitting
+
+Acceptance criteria: Top 3 articles suggested from keywords",3,Knowledge release-3,Done
+"HR-06: As an employee, I can email hr@ and a ticket is created",Story,Highest,"As an employee, I can email hr@ and a ticket is created
+
+Acceptance criteria: Email creates ticket in under 2 min; reply threads stay on the ticket",3,Channels release-3,Done
+"HR-07: As an HRBP, tickets from 'my' departments are routed to me first",Story,High,"As an HRBP, tickets from 'my' departments are routed to me first
+
+Acceptance criteria: 'Preferred adviser' field routes by department; falls back to queue after 4 h",5,Routing release-4,Done
+HR-08: System warns and re-routes when a general ticket contains sensitive keywords,Story,Highest,"System warns and re-routes when a general ticket contains sensitive keywords
+
+Acceptance criteria: Keywords (e.g., grievance, harassment) trigger restricted re-route + Privacy Officer alert",5,Confidential release-4,Done
+"HR-09: As HR leadership, I see volume, SLA and top themes monthly",Story,High,"As HR leadership, I see volume, SLA and top themes monthly
+
+Acceptance criteria: Dashboard with 4 charts; data matches queue export",5,Reporting release-4,Done
+"HR-10: As an employee, I rate my experience when a ticket closes",Story,Medium,"As an employee, I rate my experience when a ticket closes
+
+Acceptance criteria: 1–5 rating; 1-click",2,Feedback release-5,Done
+HR-11: Virtual agent answers common questions,Story,Low,"Virtual agent answers common questions
+
+Acceptance criteria: —",13,Chatbot release-Future,To Do

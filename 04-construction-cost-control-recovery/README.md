@@ -26,9 +26,15 @@ I acted as **Project Manager**: I re-baselined cost and schedule, set up commitm
 | Decision log & change request | [08-decision-and-change-log.md](08-decision-and-change-log.md) |
 | Lessons learned & closure | [09-lessons-learned-and-closure.md](09-lessons-learned-and-closure.md) |
 
-Data files (open as tables on GitHub, or import into Notion/Excel): [`stakeholder-register.csv`](stakeholder-register.csv), [`raci-matrix.csv`](raci-matrix.csv), [`schedule-wbs.csv`](schedule-wbs.csv), [`raid-log.csv`](raid-log.csv), [`procurement-contractor-tracker.csv`](procurement-contractor-tracker.csv)
+## PM tool files
+| Tool | File | What it contains |
+|---|---|---|
+| Microsoft Excel | [`construction-cost-control-recovery-pm-workbook.xlsx`](construction-cost-control-recovery-pm-workbook.xlsx) | Gantt chart, stakeholder register, RACI, RAID log (auto-scored), budget, comms plan and a dashboard with live formulas and charts |
+| Microsoft Project | [`construction-cost-control-recovery-schedule-msproject.xml`](construction-cost-control-recovery-schedule-msproject.xml) | Baseline schedule with phases, work packages, owners and milestones (File → Open in MS Project, or open in the free ProjectLibre) |
 
-![Earned value S-curve (simulated)](assets/evm-s-curve.png)
+Data files (open as tables on GitHub, or import into Notion): [`stakeholder-register.csv`](stakeholder-register.csv), [`raci-matrix.csv`](raci-matrix.csv), [`schedule-wbs.csv`](schedule-wbs.csv), [`raid-log.csv`](raid-log.csv), [`procurement-contractor-tracker.csv`](procurement-contractor-tracker.csv)
+
+![Earned value dashboard – exported from the Excel workbook (simulated)](assets/evm-s-curve.png)
 
 ## Key PM decision
 When the window supplier said it would be '2 weeks late', I asked for its factory production schedule. That showed 5 weeks, which threatened to leave the building open going into an Edmonton winter. I gave the sponsor three costed options and implemented temporary enclosure and heat for the lower floors. That protected the critical path for $145K, part of it recoverable from the supplier under the contract.
@@ -37,7 +43,7 @@ When the window supplier said it would be '2 weeks late', I asked for its factor
 Cost control & earned value management (EVM), Contract & change-order administration, Contractor and supplier management, Re-baselining, Critical-path & seasonal risk management, Quality inspection planning, Handover & close-out, Lender / stakeholder reporting
 
 ## Tools
-Excel (cost register, EVM), Python (S-curve chart), Microsoft Project, SharePoint (document control), Mermaid (Gantt)
+Excel (cost register, EVM dashboard), Microsoft Project, SharePoint (document control), Mermaid (Gantt)
 
 ## How I describe this on my resume
 - Led a simulated cost-control recovery on a CAD $38M, 96-unit residential build, cutting forecast overrun from +9% to +2.1% through re-baselining, change-order control and site-verified progress payments.

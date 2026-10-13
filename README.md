@@ -1,8 +1,8 @@
-# Sola Adebanjo – Project Management Portfolio
+# Sola Debanjo – Project Management Portfolio
 
 **PMP-certified project manager** with experience in healthcare (NHS), telecommunications and construction contract administration, currently completing NPower Canada's AI & Data Analytics program (IBM Data Analyst Professional Certificate). Based in Edmonton, Alberta. · [LinkedIn](https://www.linkedin.com/in/soladebanjo)
 
-This portfolio contains **five end-to-end project case studies**, one per sector I work in. Each one includes the artefacts a PM produces in real delivery: charter, stakeholder register and RACI, WBS and Gantt schedule, RAID log, communication plan, status report, decision and change log, and lessons learned. Each also includes sector-specific work such as UAT and hypercare plans, earned-value reports and KPI dashboards.
+This portfolio contains **end-to-end project case studies** across the sectors I work in. Each one includes the artefacts a PM produces in real delivery: charter, stakeholder register and RACI, WBS and Gantt schedule, RAID log, communication plan, status report, decision and change log, and lessons learned. Each also includes sector-specific work such as UAT and hypercare plans, earned-value reports and KPI dashboards.
 
 > **About these projects:** these are **simulated projects** built from PM Project Lab practice briefs. The organisations, people and figures are fictional; the planning, analysis, decisions and documents are my own work. Each case study also explains how it connects to my real experience.
 
@@ -29,7 +29,9 @@ This portfolio contains **five end-to-end project case studies**, one per sector
 | Cost control & earned value (EVM) |  |  |  | ✔ |  |
 | Agile / Scrum backlog | ✔ |  | ✔ | ✔ | ✔ |
 | Privacy & compliance | ✔ | ✔ | ✔ |  | ✔ |
-| Data analysis (Python / Excel / BI) |  | ✔ |  | ✔ | ✔ |
+| Excel dashboards & formulas | ✔ | ✔ | ✔ | ✔ | ✔ |
+| Microsoft Project schedule | ✔ | ✔ | ✔ | ✔ | ✔ |
+| Jira backlog | ✔ |  | ✔ |  |  |
 
 ## How each case study is organised
 | File | What it shows |
@@ -39,9 +41,12 @@ This portfolio contains **five end-to-end project case studies**, one per sector
 | `06-…` | Sector-specific deliverables (backlog, UAT/go-live, process maps, EVM, KPI dashboards, trackers) |
 | `07` – `09` | Status report, decision & change log, lessons learned & closure |
 | `*.csv` | Registers and data (GitHub shows them as tables) |
-| `assets/` | Charts and the Python scripts that generate them |
+| `*-pm-workbook.xlsx` | Excel workbook: Gantt, registers, RAID scoring, budget and dashboard (live formulas and charts) |
+| `*-schedule-msproject.xml` | Schedule for Microsoft Project (or the free ProjectLibre) |
+| `jira-import-backlog.csv` | Backlog ready to import into Jira (Agile projects) |
+| `assets/` | Dashboard images exported from the Excel workbooks |
 
 Gantt charts and process maps are written in [Mermaid](https://mermaid.js.org/), which GitHub renders automatically.
 
 ## Tools
-Microsoft Project · Excel · Power BI / IBM Cognos · Jira & Jira Service Management · Microsoft Teams, SharePoint, Power Automate · Python (pandas, matplotlib) · Mermaid
+Microsoft Project · Excel · Jira & Jira Service Management · Power BI / IBM Cognos · Microsoft Teams, SharePoint, Power Automate · Mermaid
