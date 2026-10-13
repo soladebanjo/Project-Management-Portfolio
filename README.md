@@ -6,6 +6,8 @@ This portfolio contains **end-to-end project case studies** across the sectors I
 
 > **About these projects:** these are **simulated projects** built from PM Project Lab practice briefs. The organisations, people and figures are fictional; the planning, analysis, decisions and documents are my own work. Each case study also explains how it connects to my real experience.
 
+**Featured:** [Interactive Project Portfolio Dashboard on Tableau Public](https://public.tableau.com/app/profile/oluwakanyinsola.adebanjo/viz/ProjectPortfolioDashboardSolaAdebanjosimulated/PortfolioOverview)
+
 ## Case studies
 | Project | Sector | Approach | Duration | Budget (assumed) | Key PM decision |
 |---|---|---|---|---|---|
@@ -32,6 +34,7 @@ This portfolio contains **end-to-end project case studies** across the sectors I
 | Excel dashboards & formulas | ✔ | ✔ | ✔ | ✔ | ✔ |
 | Microsoft Project schedule | ✔ | ✔ | ✔ | ✔ | ✔ |
 | Jira backlog | ✔ |  | ✔ |  |  |
+| Tableau dashboard |  | ✔ |  | ✔ | ✔ |
 
 ## How each case study is organised
 | File | What it shows |
@@ -44,9 +47,10 @@ This portfolio contains **end-to-end project case studies** across the sectors I
 | `*-pm-workbook.xlsx` | Excel workbook: Gantt, registers, RAID scoring, budget and dashboard (live formulas and charts) |
 | `*-schedule-msproject.xml` | Schedule for Microsoft Project (or the free ProjectLibre) |
 | `jira-import-backlog.csv` | Backlog ready to import into Jira (Agile projects) |
+| `tableau/` | Tableau Public build kit: data, calculated fields and step-by-step guide (dashboard projects) |
 | `assets/` | Dashboard images exported from the Excel workbooks |
 
 Gantt charts and process maps are written in [Mermaid](https://mermaid.js.org/), which GitHub renders automatically.
 
 ## Tools
-Microsoft Project · Excel · Jira & Jira Service Management · Power BI / IBM Cognos · Microsoft Teams, SharePoint, Power Automate · Mermaid
+Microsoft Project · Excel · Jira & Jira Service Management · Tableau · Power BI / IBM Cognos · Microsoft Teams, SharePoint, Power Automate · Mermaid

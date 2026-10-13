@@ -31,10 +31,14 @@ I acted as **Project Manager**: I led the project end to end: charter, stakehold
 |---|---|---|
 | Microsoft Excel | [`general-project-portfolio-dashboard-pm-workbook.xlsx`](general-project-portfolio-dashboard-pm-workbook.xlsx) | Gantt chart, stakeholder register, RACI, RAID log (auto-scored), budget, comms plan and a dashboard with live formulas and charts |
 | Microsoft Project | [`general-project-portfolio-dashboard-schedule-msproject.xml`](general-project-portfolio-dashboard-schedule-msproject.xml) | Baseline schedule with phases, work packages, owners and milestones (File → Open in MS Project, or open in the free ProjectLibre) |
+| Tableau Public | [`tableau/`](tableau/TABLEAU-BUILD-GUIDE.md) | Build kit for an interactive Tableau dashboard: Tableau-ready data, calculated fields and step-by-step guide |
 
 Data files (open as tables on GitHub, or import into Notion): [`stakeholder-register.csv`](stakeholder-register.csv), [`raci-matrix.csv`](raci-matrix.csv), [`schedule-wbs.csv`](schedule-wbs.csv), [`raid-log.csv`](raid-log.csv), [`portfolio-data.csv`](portfolio-data.csv), [`kpi-dashboard.csv`](kpi-dashboard.csv)
 
 ![Portfolio dashboard – exported from the Excel workbook (simulated)](assets/portfolio-dashboard.png)
+
+## Interactive dashboard
+**[View the live Tableau Public dashboard](https://public.tableau.com/app/profile/oluwakanyinsola.adebanjo/viz/ProjectPortfolioDashboardSolaAdebanjosimulated/PortfolioOverview)** – click a RAG tile to filter every chart.
 
 ## Key PM decision
 At Week 12 a senior partner asked to 'just add' a consultant-level utilisation page. I showed the impact in numbers: +3 weeks past a fixed date, +$22K against $14K of contingency, and a privacy review. I offered a practice-level view in the current sprint and a Phase 2 backlog item. The partner agreed and go-live stayed on date.
