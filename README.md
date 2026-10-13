@@ -1,4 +1,4 @@
-# Sola Debanjo – Project Management Portfolio
+# Sola Adebanjo – Project Management Portfolio
 
 **PMP-certified project manager** with experience in healthcare (NHS), telecommunications and construction contract administration, currently completing NPower Canada's AI & Data Analytics program (IBM Data Analyst Professional Certificate). Based in Edmonton, Alberta. · [LinkedIn](https://www.linkedin.com/in/soladebanjo)
 
